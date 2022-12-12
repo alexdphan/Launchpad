@@ -1,5 +1,7 @@
 # Stargaze Launchpad CosmWasm Contracts
 
+...
+
 Stargaze smart contracts are written in [CosmWasm](https://cosmwasm.com), a multi-chain smart contract platform in Rust.
 
 ## Architecture
